@@ -12,6 +12,15 @@ Construa o clássico jogo de adivinhar palavras usando strings, loops e entrada 
 #### Description
 Desenvolva um jogo completo da Forca que permita aos jogadores adivinharem uma palavra letra por letra, com limite de tentativas e feedback visual do progresso.
 
+Exemplo de execução:
+```
+Palavra: _ _ _ _ _ _
+Tentativas restantes: 6
+Digite uma letra: a
+Palavra: _ a _ _ _ _
+Tentativas restantes: 6
+```
+
 #### Requirements
 Completed program should:
 
